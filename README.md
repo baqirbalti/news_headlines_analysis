@@ -15,10 +15,15 @@ This project is a machine learning-based web app that classifies **news headline
 ---
 
 ## 📁 Project Structure
-
-<pre> ``` news_headlines_analysis/ ├── sentiment_model.pkl # Trained sentiment classifier ├── tfidf_vectorizer.pkl # TF-IDF vectorizer ├── news.csv # News headlines dataset ├── streamlit_app.py # Streamlit app for UI ├── requirements.txt # Project dependencies └── README.md # Project description ``` </pre>
----
-
+'''
+news_headlines_analysis/
+├── sentiment_model.pkl # Trained sentiment classifier
+├── tfidf_vectorizer.pkl # TF-IDF vectorizer
+├── news.csv # News headlines dataset
+├── streamlit_app.py # Streamlit app for UI
+├── requirements.txt # Project dependencies
+└── README.md # Project description
+'''
 ## ⚙️ How It Works
 
 1. A dataset of news headlines is cleaned and labeled with sentiment (positive/negative).
