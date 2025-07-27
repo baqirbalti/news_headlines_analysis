@@ -11,7 +11,7 @@ This project is a machine learning-based web app that classifies **news headline
 - TF-IDF-based feature extraction
 - Simple and interactive **Streamlit** web UI
 - Easy to deploy and test via web browser
-![Positive Example](https://github.com/baqirbalti/news_headlines_analysis/blob/main/image/Screenshot%202025-07-27%20105425.png)
+
 ---
 
 ## 📁 Project Structure
@@ -24,6 +24,7 @@ news_headlines_analysis/
 ├── requirements.txt # Project dependencies
 └── README.md # Project description
 ```
+
 ## ⚙️ How It Works
 
 1. A dataset of news headlines is cleaned and labeled with sentiment (positive/negative).
@@ -34,17 +35,32 @@ news_headlines_analysis/
 
 ---
 
+## 🖼️ Model Demo Screenshots
+
+### ✅ Example: Positive Sentiment Prediction
+![Positive Example](https://github.com/baqirbalti/news_headlines_analysis/blob/main/image/Screenshot%202025-07-27%20105425.png)
+
+### ✅ Example: Negative Sentiment Prediction
+![Negative Example](https://github.com/baqirbalti/news_headlines_analysis/blob/main/image/Screenshot%202025-07-27%20105559.png)
+
+### ✅ User Interface Overview
+![UI Overview](https://github.com/baqirbalti/news_headlines_analysis/blob/main/image/Screenshot%202025-07-27%20105725.png)
+
+These screenshots show that the model can accurately classify real-world news inputs with a clean, simple user interface.
+
+---
+
 ## 🚀 Try the App
 
 You can run the app locally or use the live version (if hosted on Streamlit Cloud):
 
 ### ▶️ Run Locally
-
-
-git clone https://github.com/yourusername/news_headlines_analysis.git
+```bash
+git clone https://github.com/baqirbalti/news_headlines_analysis.git
 cd news_headlines_analysis
 pip install -r requirements.txt
 streamlit run streamlit_app.py
+
 
 
 Requirements:
