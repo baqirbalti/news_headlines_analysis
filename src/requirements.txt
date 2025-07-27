@@ -1,0 +1,8 @@
+pandas 
+scikit-learn
+ nltk 
+ matplotlib
+  wordcloud
+  numpy
+  streamlit
+  
