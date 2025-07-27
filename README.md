@@ -37,13 +37,13 @@ news_headlines_analysis/
 
 ## 🖼️ Model Demo Screenshots
 
-### ✅ Example: Positive Sentiment Prediction
+### ✅ User Interface Overview
 ![Positive Example](https://github.com/baqirbalti/news_headlines_analysis/blob/main/image/Screenshot%202025-07-27%20105425.png)
 
 ### ✅ Example: Negative Sentiment Prediction
 ![Negative Example](https://github.com/baqirbalti/news_headlines_analysis/blob/main/image/Screenshot%202025-07-27%20105559.png)
 
-### ✅ User Interface Overview
+### ✅ Example: Positive Sentiment Prediction
 ![UI Overview](https://github.com/baqirbalti/news_headlines_analysis/blob/main/image/Screenshot%202025-07-27%20105725.png)
 
 These screenshots show that the model can accurately classify real-world news inputs with a clean, simple user interface.
