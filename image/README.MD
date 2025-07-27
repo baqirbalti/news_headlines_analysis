@@ -1,0 +1,1 @@
+The above image demonstrates how the trained model successfully predicts the sentiment of a previously unseen positive news headline. The sentence input by the user was correctly classified as POSITIVE, which highlights the effectiveness of the machine learning pipeline and preprocessing steps used in this project.
