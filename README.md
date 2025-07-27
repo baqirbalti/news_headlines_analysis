@@ -11,7 +11,7 @@ This project is a machine learning-based web app that classifies **news headline
 - TF-IDF-based feature extraction
 - Simple and interactive **Streamlit** web UI
 - Easy to deploy and test via web browser
-
+![Positive Example](https://github.com/baqirbalti/news_headlines_analysis/blob/main/image/Screenshot%202025-07-27%20105425.png)
 ---
 
 ## 📁 Project Structure
