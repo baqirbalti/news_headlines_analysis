@@ -7,7 +7,7 @@ This project is a machine learning-based web app that classifies **news headline
 ## 📌 Project Features
 
 - Analyze the sentiment of any news headline
-- Pre-trained model using Logistic Regression
+- Pre-trained model using MultinomialNB
 - TF-IDF-based feature extraction
 - Simple and interactive **Streamlit** web UI
 - Easy to deploy and test via web browser
